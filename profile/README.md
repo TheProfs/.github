@@ -11,7 +11,7 @@ more often-than-not, [actually write tests][tdd]. Most of our code is written in
 If you're interested in working with us, drop us an email at admin|at|bitpaper|dot|io
 
 Best of luck,  
-the [Bitpaper Team][bp-team]
+the [Bitpaper Team][bp-team] 🚀
 
 [bitpaper]: https://bitpaper.io/
 [ci]: https://en.wikipedia.org/wiki/Continuous_integration
