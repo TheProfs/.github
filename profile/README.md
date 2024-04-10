@@ -1,18 +1,16 @@
-## Hi there 👋
+## Hi 👋
 
-You've reached the [Bitpaper][bitpaper] organisation, the collaborative whiteboard used by thousands of tutors worldwide.
+You've reached the [Bitpaper][bitpaper] organisation, the collaborative whiteboard used by 1000's of tutors worldwide.
 
-Most of the work we do here is in private repositories but we frequently open-source our components; 
-you can find a lot of them pinned in these pages. You are free to use them.
+Most of the work we do is in private repositories but we frequently open-source our components; 
+you can find some of them half-finished & pinned in these pages. 
 
 We [deploy daily][ci], structure our systems using the [Microservice Architecture][microservices], glue them together with [rabbits 🐰][mq], adhere to [12-factor][12-factors] principles and 
-more often-than-not, [actually write tests][tdd].  
-
-Most of our code is typed in [ES6][es6], written in a [functional prose][func-programming].
+more often-than-not, [actually write tests][tdd].  Most of our code is typed in [ES6][es6], written in a [functional prose][func-programming].
 
 If you're interested in working with us, drop us an email at admin|at|bitpaper|dot|io
 
-Best of luck,  
+Much love,  
 the [Bitpaper Team][bp-team] 🚀
 
 [bitpaper]: https://bitpaper.io/
