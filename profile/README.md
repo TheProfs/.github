@@ -5,7 +5,7 @@ You've reached the [Bitpaper][bitpaper] organisation, the collaborative whiteboa
 Most of the work we do is in private repositories but we frequently open-source our components; 
 you can find some of them half-finished & pinned in these pages. 
 
-We [deploy daily][ci], structure our systems using the [Microservice Architecture][microservices], glue them together with [rabbits 🐰][mq], stick a [12-factor][12-factors] gospel and more-often-than-not, [actually write tests][tdd].  Most of our code is typed in [ES6][es6], written in a [functional() prose][func-programming].
+We [deploy daily][ci], structure our systems using the [Microservice Architecture][microservices], glue them together with [rabbits 🐰][mq], adhere to a [12-factor][12-factors] gospel and more-often-than-not, [actually write tests][tdd].  Most of our code is typed in [ES6][es6], written in a [functional() prose][func-programming].
 
 If you're interested in working with us, drop us an email at admin|at|bitpaper|dot|io
 
