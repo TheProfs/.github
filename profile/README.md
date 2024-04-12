@@ -2,7 +2,7 @@
 
 You've reached the [Bitpaper][bitpaper] organisation, the collaborative whiteboard used by 1000's of tutors worldwide.
 
-Most of our work is done in private repositories; the public repos you see here are either internal tools or experimental prototype code.
+Most of our work is done in private repositories; the public repos you see here are either internal tools or experimental prototypes.
 
 We [deploy daily][ci], structure our systems using the [Microservice Architecture][microservices], glue them together with [rabbits 🐰][mq], adhere to a [12-factor][12-factors] gospel and more-often-than-not, [actually write tests][tdd].  Most of our code is typed in [ES6][es6], written in a [functional() prose][func-programming].
 
